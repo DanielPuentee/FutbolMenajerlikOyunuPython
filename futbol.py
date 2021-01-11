@@ -14,4 +14,5 @@ def istatistik_hesapla(oyuncular):
     return istatistik_sonuclari
 print(istatistik_hesapla(oyuncular))
 ### Primera
+- Segunda
 
