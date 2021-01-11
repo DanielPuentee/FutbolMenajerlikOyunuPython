@@ -15,4 +15,5 @@ def istatistik_hesapla(oyuncular):
 print(istatistik_hesapla(oyuncular))
 ### Primera
 - Segunda
+-- Tercero
 
