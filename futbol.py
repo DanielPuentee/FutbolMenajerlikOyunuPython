@@ -13,3 +13,5 @@ def istatistik_hesapla(oyuncular):
         istatistik_sonuclari[oyuncu]=toplam_istatistik
     return istatistik_sonuclari
 print(istatistik_hesapla(oyuncular))
+### Primera
+
